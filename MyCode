@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>restro</title>
+<centre>
+<p><header><h1><i>The Flavor Fusion</i></h1></header> </p>
+</centre>
+<main>
+<span><i><u><h3>Contact</h3></u></i>
+<div class="form_control">
+  <h4>
+    <p>Email: <a href="shifamohdyusuf@gmail.com">shifamohdyusuf@gmail.com</a></p>
+  <p>Contact no.: 022 679 4382</p> </h4> </span>
+</div>
+<span><i><u><h3>Address</h3></i></u>
+<div class="form_control">
+   <ul>   <p>
+       <h4> <li>8, west panchni, Central street, Goa.</li></p>
+     <p>
+    <li>17, Chakla Marg, Xaviers Road, West Parel.</li></h4></p>
+     </ul> </span>
+<cols="2"></cols>
+<i><u><h3>Pictures</h3></u></i>
+<img src="https://images.pexels.com/photos/2983101/pexels-photo-2983101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="136" alt="Soup">
+<img src="https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="120"  alt="Food">
+<img src="https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="136" alt="Steak">
+<img src="https://media.istockphoto.com/id/497186232/photo/indian-spices-in-wooden-trays.jpg?s=1024x1024&w=is&k=20&c=VqfVQcVUIHyiWL_8pdzxD6g0lz3pUP0RNAA0AX_GSy0=" width="138">
+<img src="https://images.pexels.com/photos/566566/pexels-photo-566566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="136" alt="Egg">
+<img src="https://images.pexels.com/photos/958546/pexels-photo-958546.jpeg" width="160">
+<img src="https://images.pexels.com/photos/2611917/pexels-photo-2611917.jpeg" width="135">
+<img src="https://images.pexels.com/photos/842545/pexels-photo-842545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="136">
+<hr>
+<br>
+<i><u><h3>About Us</h3></u></i>
+<p><i>Welcome to "Flavors of Fusion," where culinary artistry meets delightful innovation. Nestled in the heart of the city, our restaurant offers an unforgettable dining experience, where every dish tells a story of passion and creativity. From the moment you step through our doors, you'll be greeted by the tantalizing aroma of our diverse fusion cuisine, a harmonious blend of flavors from around the world.  Whether you're dining with friends, family, or colleagues, let us take you on a gastronomic adventure unlike any other. Join us at "Flavors of Fusion" and embark on a culinary voyage that transcends borders and celebrates the art of flavor fusion.</i></p>
+</main>
+<i><h3><u>Reviews</u></h3></i>
+<textarea name="feedback" id="402" rows="4" style=width:400px;" placeholder="Write your Reviews Here..."></textarea>
+
+</head>
+
+</div>
+
+    </head>
+</html>
+
+
